@@ -1,6 +1,6 @@
-package bersatu.kita.part11.Api
+package ghost.commander.part11.Api
 
-import bersatu.kita.part11.Model.Photo
+import ghost.commander.part11.Model.Photo
 import io.reactivex.Single
 import retrofit2.http.GET
 

@@ -1,4 +1,4 @@
-package bersatu.kita.part11.Model
+package ghost.commander.part11.Model
 
 import com.google.gson.annotations.SerializedName
 

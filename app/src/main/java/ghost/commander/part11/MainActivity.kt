@@ -1,12 +1,12 @@
-package bersatu.kita.part11
+package ghost.commander.part11
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
-import bersatu.kita.part11.View.PhotoListAdapter
-import bersatu.kita.part11.Viewmodel.ListViewModel
+import ghost.commander.part11.View.PhotoListAdapter
+import ghost.commander.part11.Viewmodel.ListViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

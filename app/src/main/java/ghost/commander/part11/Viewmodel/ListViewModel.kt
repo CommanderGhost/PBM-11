@@ -1,10 +1,10 @@
-package bersatu.kita.part11.Viewmodel
+package ghost.commander.part11.Viewmodel
 
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import bersatu.kita.part11.Api.PhotosService
-import bersatu.kita.part11.Model.Photo
+import ghost.commander.part11.Api.PhotosService
+import ghost.commander.part11.Model.Photo
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.observers.DisposableSingleObserver
